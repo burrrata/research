@@ -13,8 +13,10 @@
 # and the entire market converges to an equilibrium of uniformly sized accounts, 
 # the best they can do is break even on fees.
 
-# This still doesn't solve the problem that larger token holders would have more votes overall though, 
+# This still doesn't solve the problem that larger token holders would have more votes overall, 
 # but it ads an extra incentive for smaller parties to participate in the process. 
+# Also, if dishonest behavior results in a node's stake being slashed relative to the % of the network that also acted dishonestly,
+# then the larger the network of voting nodes the stronger the incentive to play nice.
 
 # NOTE: the quadradic voting fee mechanism implimented here is NOT the same as was described in the original post. 
 # This mechanism assumes that participating voters are staking their entire balance. 
