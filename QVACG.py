@@ -22,8 +22,8 @@
 # This mechanism assumes that participating voters are staking their entire balance. 
 # Also, in the original post I wasn't sure what Xi represents so I created a binary voting system 
 # where -1 means no, 0 means not participating, and 1 means yes. 
-# This is just a test to get a general mechanism working and better understand 
-# how QV fees would work in an iterated setting like block voting. Further upgrades and refinements TBD. 
+# This is just a test to get a general mechanism working
+# and better understand how QV fees would work in an iterated setting like block voting.  
 
 
 
