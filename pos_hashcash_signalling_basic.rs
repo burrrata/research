@@ -23,7 +23,7 @@
 */
 
 fn main() {
-    // Artist Defined Metrics
+    // Artist Metrics
     // public star rating
     let psr: f64 = 7.0;
     // public price
