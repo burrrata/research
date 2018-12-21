@@ -1,4 +1,4 @@
-Exploring cryptoeconomic mechanisms and how they can help with coordination for real world applications in social settings.
+### Exploring cryptoeconomic mechanisms and how they can help with coordination for real world applications in social settings.
 
 QVACG (quadratic voting anti centralization gadget) takeaways:
 - https://ethresear.ch/t/quadratic-costs-and-collective-payouts-as-anti-centralization-gadget/2429
