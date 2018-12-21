@@ -13,5 +13,5 @@ Also considering how this could be implimented in the real world, and if the sam
 
 PoS HashCash Signalling
 - continuing ideas from this thread: https://ethresear.ch/t/conditional-proof-of-stake-hashcash/1301/18
-- relevant to marginal price discrimination because it's all about pricing that incentivizes signal > noise and reduces spam/cheating, esp in social contexts and larger games of life.
 - also inspired by this post: http://gabethebassplayer.tumblr.com/post/180605851475/show-rating
+- relevant to marginal price discrimination because it's all about pricing that incentivizes signal > noise and reduces spam/cheating, esp in social contexts and larger games of life.
