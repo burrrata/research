@@ -18,6 +18,12 @@
 // - refund costs for the artist
 // - attack costs for the malicious party
 
+// Stretch: model additional metrics like:
+// - desire to attend (core fans vs casual)
+// - value of money (affluence and how much they care about price)
+// - marketing costs (cost of acquiring new fans traditionally vs
+//   via capped downside risk via refunds)
+
 extern crate rand;
 use rand::prelude::*;
 
