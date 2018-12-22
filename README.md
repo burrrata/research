@@ -17,3 +17,8 @@ PoS HashCash Signalling
 - continuing ideas from this thread: https://ethresear.ch/t/conditional-proof-of-stake-hashcash/1301/18
 - also inspired by this post: http://gabethebassplayer.tumblr.com/post/180605851475/show-rating
 - relevant to marginal price discrimination because it's all about pricing that incentivizes signal > noise and reduces spam/cheating, esp in social contexts and larger games of life.
+
+
+TODO
+To really roll these out, we need to model both honest and malicious populations to determine up to whaitert threshold attacks will fail or become profitable. This requires:
+- functions that can generate arbitrary populations
