@@ -21,4 +21,6 @@ PoS HashCash Signalling
 
 TODO
 To really roll these out, we need to model both honest and malicious populations to determine up to whaitert threshold attacks will fail or become profitable. This requires:
-- functions that can generate arbitrary populations
+- functions that can generate arbitrary populations with various metrics/parameters
+- functions that can iterate over those populations and test for thresholds of success/failure
+- functions that can iterate over populations over the course of repeat interactions over time and test for thresholds of success/failure
