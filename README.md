@@ -1,3 +1,9 @@
+# SPAGHETTI CODE AHEAD
+
+- FYI: started sketching out ideas here, meant to refine them, but did not follow through on that. As is they aren't viable or readable in any way, shape, or form. Sorry about that. Might circle back and change that in the future though :)
+
+
+
 ### Exploring cryptoeconomic mechanisms and how they can help with coordination for real world applications in social settings.
 
 QVACG (quadratic voting anti centralization gadget) takeaways:
