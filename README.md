@@ -1,4 +1,4 @@
-## QVACG (quadratic voting anti centralization gadget) takeaways:
+## QVACG: quadratic voting anti centralization gadget
 - https://ethresear.ch/t/quadratic-costs-and-collective-payouts-as-anti-centralization-gadget/2429
 - imposing quadratic costs may put pressure on the players of a game to move towards a maximally effecient equilibrium
 - the rules that impose that quadratic cost define the eqiulibrium points players move to, and thus the degree of centralization/decentralization
@@ -6,7 +6,7 @@
 
 <br>
 
-## CTMPD (charity through marginal price discrimination) takeaways:
+## CTMPD: charity through marginal price discrimination
 - original idea: https://vitalik.ca/jekyll/general/2017/03/11/a_note_on_charity.html
 - it seems like in a setting like Charity Through Marginal Price Discrimination the system works in isolation, but would be maximally effective in a setting with multiple participants all putting pressure on each other to opt into a shared mechanism. 
 - moving towards a mechanism that can test and compare arbitrary populations
