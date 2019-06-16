@@ -1,7 +1,3 @@
-Exploring cryptoeconomic mechanisms and how they can help with coordination for real world applications in social settings.
-
-<br>
-
 ## QVACG (quadratic voting anti centralization gadget) takeaways:
 - https://ethresear.ch/t/quadratic-costs-and-collective-payouts-as-anti-centralization-gadget/2429
 - imposing quadratic costs may put pressure on the players of a game to move towards a maximally effecient equilibrium
